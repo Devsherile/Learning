@@ -1,0 +1,18 @@
+.about{
+    text-align: start;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.btn3{
+    background: #adff2f;
+    color: #ffffff;
+    border: 1px solid #000000;
+}
+.btn3:hover{
+    background: teal;
+    color: white;
+}
+.image{
+    margin-top: -20px;
+}
