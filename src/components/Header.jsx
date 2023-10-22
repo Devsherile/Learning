@@ -9,11 +9,11 @@ function Header(){
                     Logo
                 </h1>
                 <ul>
-                    <li>About</li>
-                    <li>Mission</li>
-                    <li>Product</li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#miss">Mission</a></li>
+                    <li><a href="#product">Product</a></li>
                 </ul>
-                <button>Contact</button>
+                <button className="contact">Contact</button>
             </header>
         </div>
         

@@ -2,17 +2,20 @@
     text-align: start;
     display: flex;
     justify-content: space-around;
-    
+    background: teal;
+    padding: 20px;
+    height: 650px;
 }
 .btn3{
-    background: #adff2f;
+    background: hsl(247, 100%, 59%);
     color: #ffffff;
     border: 1px solid #000000;
 }
 .btn3:hover{
-    background: teal;
-    color: white;
+    background:#ffffff;
+    color: #000000;
 }
 .image{
     margin-top: -20px;
+    padding: 20px;
 }

@@ -2,7 +2,7 @@ import React from "react";
 import './About.css'
 function About(){
     return(
-        <div className="about">
+        <div className="about" id="about">
              <div>
                 <img src="../../webbb.png" alt="" width={500} height={400}
                 className="image"

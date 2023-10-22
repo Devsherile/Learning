@@ -1,0 +1,33 @@
+.product{
+    display: flex;
+    height: 400px;
+    justify-content: space-evenly;
+}
+
+.pro{
+    margin-top: 300px;
+
+}
+
+.span1{
+    color: rgb(84, 5, 15);
+}
+.span2{
+    color: black;
+}
+button{
+    background: blue;
+    color: white;
+    width: fit-content;
+    border-radius: 20px;
+    border: none;
+    height: 30px;
+    width: 100px;
+}
+button:hover{
+    background: teal;
+    color: black;
+}
+.img{
+    padding-bottom: 50px;
+}
